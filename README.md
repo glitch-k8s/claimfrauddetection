@@ -7,4 +7,3 @@ Goal
 - The company seeks to identify patterns and key indicators that differentiate fraudulent claims from genuine ones. 
 - By developing a predictive model, it intends to assess the likelihood of fraud in incoming claims, enabling proactive fraud detection and reducing financial losses.
 
-Overall, the objective is to build a model to classify insurance claims as either fraudulent or legitimate based on historical claim details and customer profiles. By using features such as claim amounts, customer profiles, claim types and approval times, the company aims to predict the claims that are likely to be fraudulent before they are approved.
